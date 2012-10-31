@@ -1,12 +1,12 @@
-# Bini::Rcat [![Build Status](https://secure.travis-ci.org/erniebrodeur/bini-rcat.png)](http://travis-ci.org/erniebrodeur/bini-rcat)
+# Rcat [![Build Status](https://secure.travis-ci.org/erniebrodeur/bini-rcat.png)](http://travis-ci.org/erniebrodeur/rcat)
 
-TODO: Write a gem description
+This gem provides a binary that cat's syntax colorized code to the console.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'bini-rcat'
+    gem 'rcat'
 
 And then execute:
 
@@ -14,11 +14,13 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bini-rcat
+    $ gem install rcat
 
 ## Usage
 
-TODO: Write usage instructions here
+For now it doesn't have any options, all you can do is colorize a list of files to console:
+
+		% rcat file list goes here.rb
 
 ## Contributing
 

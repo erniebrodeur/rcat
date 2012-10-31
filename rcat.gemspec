@@ -9,7 +9,8 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Ernie Brodeur"]
   gem.email         = ["ebrodeur@ujami.net"]
   gem.description   = "A colorized cat command using ruby."
-  gem.summary       = "Specifically, coderay."
+  gem.summary       = "This gem provides a binary that cat's syntax colorized code to the console.
+"
   gem.homepage      = "https://www.github.com/erniebrodeur/rcat"
 
   gem.files         = `git ls-files`.split($/)
