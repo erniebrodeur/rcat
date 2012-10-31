@@ -19,4 +19,5 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'bini'
   gem.add_runtime_dependency 'pry'
   gem.add_runtime_dependency 'pry-theme'
+  gem.add_development_dependency 'rake'
 end
