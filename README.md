@@ -1,4 +1,4 @@
-# Bini::Rcat
+# Bini::Rcat [![Build Status](https://secure.travis-ci.org/erniebrodeur/bini-rcat.png)](http://travis-ci.org/erniebrodeur/bini-rcat)
 
 TODO: Write a gem description
 
