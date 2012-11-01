@@ -1,4 +1,4 @@
-# Rcat [![Build Status](https://secure.travis-ci.org/erniebrodeur/bini-rcat.png)](http://travis-ci.org/erniebrodeur/rcat)
+# Rcat [![Build Status](https://secure.travis-ci.org/erniebrodeur/rcat.png)](http://travis-ci.org/erniebrodeur/rcat)
 
 This gem provides a binary that cat's syntax colorized code to the console.
 

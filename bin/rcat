@@ -1,14 +1,13 @@
 #!/usr/bin/ruby
-require 'bini/app'
+require 'bini'
 require 'bini/optparser'
+require 'bini/config'
 require 'pry'
 require 'pry-theme'
 
 include Bini
 
-App.banner = "Usage: Use ruby to cat a file and produce colored output."
-App.version = "0.9.1"
-
+Options.banner = "Usage: Use ruby to cat a file and produce colored output."
 Options.parse!
 
 if ARGV.empty?
