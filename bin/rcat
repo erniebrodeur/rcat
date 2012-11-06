@@ -9,6 +9,7 @@ include Bini
 
 Options.banner = "Usage: Use ruby to cat a file and produce colored output."
 Options.parse!
+local = "peristant"
 
 if ARGV.empty?
   puts 'you need to supply a list of filenames to cat to screen.'
